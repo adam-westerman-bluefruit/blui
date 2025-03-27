@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|solutionrelative:BluiTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guibox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|solutionrelative:BluiTest\\guibox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guiBox.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AF89BEA-1CE5-41E1-850D-B6E9D3F733F1}|BluiTest\\BluiTest.vcxproj|solutionrelative:BluiTest\\guiBox.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "guibox.cpp",
+              "DocumentMoniker": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guibox.cpp",
+              "RelativeDocumentMoniker": "BluiTest\\guibox.cpp",
+              "ToolTip": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guibox.cpp",
+              "RelativeToolTip": "BluiTest\\guibox.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T16:06:40.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "guiBox.hpp",
+              "DocumentMoniker": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guiBox.hpp",
+              "RelativeDocumentMoniker": "BluiTest\\guiBox.hpp",
+              "ToolTip": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\guiBox.hpp",
+              "RelativeToolTip": "BluiTest\\guiBox.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T16:06:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\main.cpp",
+              "RelativeDocumentMoniker": "BluiTest\\main.cpp",
+              "ToolTip": "C:\\Users\\AdamWesterman\\source\\repos\\BluiTest\\BluiTest\\main.cpp",
+              "RelativeToolTip": "BluiTest\\main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T16:29:15.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

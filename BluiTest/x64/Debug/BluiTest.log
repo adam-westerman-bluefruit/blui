@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\AdamWesterman\source\repos\BluiTest\BluiTest\main.cpp(126,25): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  BluiTest.vcxproj -> C:\Users\AdamWesterman\source\repos\BluiTest\x64\Debug\BluiTest.exe
